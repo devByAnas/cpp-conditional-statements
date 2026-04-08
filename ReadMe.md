@@ -525,3 +525,6 @@ Program khatam! Done.
 | Conditions clearly likhain                      | Ek hi `if` mein zyada conditions mat daalo    |
 
 ---
+
+## 👨‍💻 Author
+> devByAnas
